@@ -1,36 +1,47 @@
 
-# Tennis Analysis
+🎾 Exciting Tennis Analysis Project Alert! 🎾
 
-## Introduction
-This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court keypoints. This hands on project is perfect for polishing your machine learning, and computer vision skills. 
+Are you passionate about machine learning, computer vision, and sports analytics? Check out this fascinating project that analyzes Tennis players in action, measuring their speed, ball shot speed, and number of shots using cutting-edge technologies!
 
-## Output Videos
-Here is a screenshot from one of the output videos:
+🔍 Introduction:
+This project delves into Tennis player analysis using advanced techniques. It employs YOLO v8 for player detection, Fine-Tuned YOLO for tennis ball detection, and CNNs for extracting court keypoints, built similarly to Amazon Web Services' (AWS) groundbreaking partnership with Bundesliga for real-time game analysis.
+
+🌐 AWS-Bundesliga Match Facts Inspiration:
+Taking inspiration from the AWS and Bundesliga collaboration, this project leverages AWS machine learning and analytics to enhance the fan experience, just like the "Bundesliga Match Facts Powered by AWS" initiative. By delivering real-time insights like Average Positions and xGoals, this project aims to build similar functionality and engagement for Tennis matches.
+
+📹 Output Videos:
+Get a glimpse of the project's capabilities with this screenshot from one of the output videos.
 
 
 https://github.com/ihebakermi10/AI-ML-Tennis-Analysis-system/assets/90511874/985da38a-e234-400e-a5bb-2050e319c0de
 
-1. Use ultralytics and YOLOv8 to detect objects in images and videos.
-2. Fine tune and train your own YOLO on your own custom dataset.
-3. Train a CNN with pytorch to extract keypoints.
-4. Use object trackers to track objects across frames.
-5. Use CV2 to read, manipulate and save a video.
-6. Analyze detection data and take a data driven approach to develop features. 
-7. Put all those ML/DL model output into one big project that have a concrete output. 
 
-## Models Used
-* YOLO v8 for player detection
-* Fine Tuned YOLO for tennis ball detection
-* Court Key point extraction
 
-## Training
-* Tennis ball detetcor with YOLO: training/tennis_ball_detector_training.ipynb
-* Tennis court keypoint with Pytorch: training/tennis_court_keypoints_training.ipynb
+🛠️ Models Used:
+- YOLO v8 for player detection
+- Fine-Tuned YOLO for tennis ball detection
+- Court Keypoint extraction
+- New additions: Analysis of player movements, ball trajectory, and game statistics specific to Tennis dynamics.
 
-## Requirements
-* python3.8
-* ultralytics
-* pytroch
-* pandas
-* numpy 
-* opencv
+🎓 Training:
+Interested in how it's done? Dive into the training notebooks:
+- Tennis ball detector with YOLO: training/tennis_ball_detector_training.ipynb
+- Tennis court keypoint with Pytorch: training/tennis_court_keypoints_training.ipynb
+- New training module: Tennis dynamics and statistics analysis.
+
+🔧 Requirements:
+To replicate this project, make sure you have the following:
+- Python 3.8
+- Ultralytics
+- PyTorch
+- Pandas
+- NumPy
+- OpenCV
+- New requirement: Libraries for statistical analysis and visualization.
+
+🌟 About:
+This hands-on project is perfect for honing your machine learning and computer vision skills, designed to emulate the success of industry-leading collaborations like AWS and Bundesliga's game-changing analytics partnership. The project aims to provide a deeper understanding of Tennis dynamics and engagement for Tennis enthusiasts, similar to the real-time insights delivered by AWS in Bundesliga matches.
+
+Ready to take your skills to the next level and refine this project for Tunisian Tennis analytics? Dive into this Tennis Analysis project now!
+
+#MachineLearning #ComputerVision #SportsAnalytics #TennisAnalysis #AWS #Bundesliga #Innovation #TunisianSportsAnalytics
