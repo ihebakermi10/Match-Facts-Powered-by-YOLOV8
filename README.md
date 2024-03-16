@@ -40,8 +40,7 @@ To replicate this project, make sure you have the following:
 - New requirement: Libraries for statistical analysis and visualization.
 
 🌟 About:
-This hands-on project is perfect for honing your machine learning and computer vision skills, designed to emulate the success of industry-leading collaborations like AWS and Bundesliga's game-changing analytics partnership. The project aims to provide a deeper understanding of Tennis dynamics and engagement for Tennis enthusiasts, similar to the real-time insights delivered by AWS in Bundesliga matches.
+This hands-on project is perfect for honing my machine learning and computer vision skills, designed to emulate the success of industry-leading collaborations like AWS and Bundesliga's game-changing analytics partnership. The project aims to provide a deeper understanding of Tennis dynamics and engagement for Tennis enthusiasts, similar to the real-time insights delivered by AWS in Bundesliga matches.
 
 Ready to take your skills to the next level and refine this project for Tunisian Tennis analytics? Dive into this Tennis Analysis project now!
 
-#MachineLearning #ComputerVision #SportsAnalytics #TennisAnalysis #AWS #Bundesliga #Innovation #TunisianSportsAnalytics
