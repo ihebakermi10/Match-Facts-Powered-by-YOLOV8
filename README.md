@@ -1,5 +1,5 @@
 
-🎾 Exciting Tennis Analysis Project Alert! 🎾
+🎾 Exciting Tennis Analysis Project 🎾
 
 Are you passionate about machine learning, computer vision, and sports analytics? Check out this fascinating project that analyzes Tennis players in action, measuring their speed, ball shot speed, and number of shots using cutting-edge technologies!
 
