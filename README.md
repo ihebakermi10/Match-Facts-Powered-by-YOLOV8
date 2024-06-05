@@ -39,7 +39,4 @@ To replicate this project, make sure you have the following:
 - OpenCV
 - New requirement: Libraries for statistical analysis and visualization.
 
-🌟 About:
-This hands-on project is perfect for honing my machine learning and computer vision skills, designed to emulate the success of industry-leading collaborations like AWS and Bundesliga's game-changing analytics partnership. The project aims to provide a deeper understanding of Tennis dynamics and engagement for Tennis enthusiasts, similar to the real-time insights delivered by AWS in Bundesliga matches.
-
 
